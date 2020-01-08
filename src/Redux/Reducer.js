@@ -29,4 +29,4 @@ const stored_data = (state=initiState , action) => {
             return state
     }
 }
-export default stored_data
+export default stored_data 
